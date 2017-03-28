@@ -1,0 +1,3 @@
+*.pyc
+env/
+tutorial/db.sqlite3
